@@ -20,15 +20,15 @@ I’m a passionate Full-Stack Developer with **8+ years of experience** building
 - HTML5, CSS3, Bootstrap, Tailwind
 
 ### Database
-- MongoDB
-- MySQL
 - PostgreSQL
+- MySQL
+- MongoDB
 
 ### DevOps & Tools
 - Git & GitHub
 - Docker (basic)
 - PM2, Nginx
-- Postman, Swagger
+- Postman
 
 ---
 
@@ -37,7 +37,6 @@ I’m a passionate Full-Stack Developer with **8+ years of experience** building
 - High-performance REST APIs
 - Secure authentication & authorization
 - Clean, reusable frontend components
-- Interview preparation & mentoring
 
 ---
 
@@ -45,7 +44,6 @@ I’m a passionate Full-Stack Developer with **8+ years of experience** building
 - Advanced Node.js system design
 - Performance optimization
 - Microservices architecture
-- Interview preparation for product-based companies
 
 ---
 
@@ -58,9 +56,9 @@ I’m a passionate Full-Stack Developer with **8+ years of experience** building
 ---
 
 ## 🤝 Let’s Connect
-- 💼 **LinkedIn:** _(add your LinkedIn link)_
+- 💼 **LinkedIn:** https://www.linkedin.com/in/saurabh-prajapati-85a164167/
 - 💻 **GitHub:** https://github.com/your-username
-- 📧 **Email:** _(add your email)_
+- 📧 **Email:** sp27243@gmail.com
 
 ---
 
